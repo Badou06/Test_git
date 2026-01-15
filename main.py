@@ -20,3 +20,6 @@ elif num > 1:
  else:
  print(num, "is a prime number")
 print("aaaa")
+print("bbb")
+print("cc")
+ 
